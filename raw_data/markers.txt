@@ -1,8 +1,4 @@
-<7:53:05 sofa
-
-< 7:55:10 tuer
-
-
-< 7:57:15 schlafzimmertuer
-
-< 7:59:06 olivenoel
+<,7:53:05,sofa
+<,7:55:10,tuer
+<,7:57:15,schlafzimmertuer
+<,7:59:06,olivenoel
