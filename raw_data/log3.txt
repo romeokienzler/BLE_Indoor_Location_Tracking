@@ -1,0 +1,109 @@
+Thu 2 Jul 13:03:55 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:00 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:05 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -104 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:10 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -100 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:15 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -103 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:20 BST 2020
+Thu 2 Jul 13:04:25 BST 2020
+Thu 2 Jul 13:04:30 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:35 BST 2020
+Thu 2 Jul 13:04:40 BST 2020
+Thu 2 Jul 13:04:45 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -96 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:04:50 BST 2020
+Thu 2 Jul 13:04:55 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:00 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -102 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:05 BST 2020
+Thu 2 Jul 13:05:10 BST 2020
+Thu 2 Jul 13:05:15 BST 2020
+Thu 2 Jul 13:05:20 BST 2020
+Thu 2 Jul 13:05:25 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -95 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:30 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:35 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:40 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:45 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:50 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:05:55 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -91 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:00 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -86 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:05 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:10 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -84 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:15 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -90 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -90 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:06:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -88 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -85 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -90 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -89 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -91 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -94 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -81 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:07:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -78 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:08:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -78 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -78 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:09:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -78 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -80 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -78 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -77 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -79 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:10:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -100 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:21 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:36 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -100 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:11:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:01 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:06 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:11 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -100 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:16 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:21 BST 2020
+Thu 2 Jul 13:12:26 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -99 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:31 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -100 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:36 BST 2020
+Thu 2 Jul 13:12:41 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:46 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:51 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -98 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
+Thu 2 Jul 13:12:56 BST 2020 Device (new): [37m5e:74:90:af:0e:0f[0m (random), -97 dBm (not connectable) Complete 16b Services: <0000fd6f-0000-1000-8000-00805f9b34fb>
